@@ -27,7 +27,7 @@
   "private": true,
   "dependencies": {
     "document-register-element": "1.13.1",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "lodash": "^4.17.15",
     "puppeteer": "^2.0.0",
     "react": "16.12.0",
